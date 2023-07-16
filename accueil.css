@@ -1,0 +1,42 @@
+
+body {
+  background: conic-gradient(#aba8a8, #c4c1c1);
+}
+
+
+.fw-bolder {
+  color: rgb(252, 245, 245);
+  font-size: 3rem;
+  text-shadow: 5px 5px 5px black;
+  margin-bottom: 100px;
+  height: auto;
+}
+#section {
+  margin-top: 120px;
+  align-items: center;
+}
+.logo {
+  height: 400px;
+  margin-bottom: 150px;
+}
+
+#myCarousel {
+    margin-top: 200px;
+}
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: auto;
+}
+#img {
+  height: auto;
+}
+
+
